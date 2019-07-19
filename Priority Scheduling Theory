@@ -1,0 +1,9 @@
+Priority Scheduling
+
+steps:
+1.  Declare the array size
+2. Get the no. of elements to be inserted
+3. Get hte priority for each process and value
+4.  Start with the higher priority process from it's initial position process to be in queue
+5 . Calculate the total no. of burst time.
+6. Display the values
